@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/yangwanxi/Documents/mnist2/mnist_model.ckpt"
+all_model_checkpoint_paths: "/Users/yangwanxi/Documents/mnist2/mnist_model.ckpt"

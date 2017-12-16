@@ -1,0 +1,4 @@
+Cassandra-driver==2.6.0
+flask==0.12
+tensorflow==1.3.0
+Pillow==4.2.1
