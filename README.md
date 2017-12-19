@@ -1,4 +1,6 @@
 # Web-App-for-Handwritten-Digit-Recognition
+Model training command: python model.py
+
 Image building command: docker  build -t mnist2 .
 
 Run the container: docker run -p 5000:80 mnist2
